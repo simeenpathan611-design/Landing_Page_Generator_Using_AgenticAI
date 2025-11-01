@@ -1,0 +1,7 @@
+crewai
+langchain
+openai
+jinja2
+streamlit
+python-dotenv
+requests
